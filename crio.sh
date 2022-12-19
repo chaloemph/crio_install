@@ -1,5 +1,5 @@
 OS=xUbuntu_22.04
-VERSION=1.25
+VERSION=1.23
 
 sudo swapoff -a
 sudo rm /swap.img
